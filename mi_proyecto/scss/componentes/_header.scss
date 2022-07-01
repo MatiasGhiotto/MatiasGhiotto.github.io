@@ -1,0 +1,17 @@
+    .header {
+        font-size: 14px;
+        justify-content: space-between;
+        align-items: center;
+        text-decoration: none;
+        display: flex;
+        background-color: rgb(154, 197, 73);
+        padding: 20px;
+        grid-area: header;
+        height: 150px;
+        width: 100%;
+
+        img {
+            width: 100px;
+            height: 100px;
+        }
+    }
